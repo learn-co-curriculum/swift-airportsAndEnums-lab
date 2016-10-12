@@ -78,4 +78,6 @@ The view has a gesture set up so the user can swipe left to load the next airpor
 
  When `next()` is called, the next airport status is retrieved from the `airportDictionary` and the view elements are updated with new information.
  * Build and run `⌘ + R` the application. Start swiping left to see the status for each airport.
- * Test `⌘ + R` the application.
+ * Test `⌘ + U` the application.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-airportsAndEnums-lab'>Enums Lab - Airports</a> on Learn.co and start learning to code for free.</p>
